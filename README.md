@@ -1,5 +1,5 @@
-# Model Risk management (MRM): Five Critical Human Interventions for ML Model Evaluations
-Human decision scientists should consider five critical aspects when evaluating ML models.
+# Model Risk Management (MRM): Five Critical Human Interventions for ML Model Evaluations
+Decision scientists should consider five critical aspects when evaluating ML models of MRM projects.
 
 ### Q1: ML-based feature reduction approaches are not always suitable for business strategy development.
 ### Q2: Use of macroeconomic, policy, and shock variables in ML model as "Control Vars."
